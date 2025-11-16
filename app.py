@@ -10,7 +10,6 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import re
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
